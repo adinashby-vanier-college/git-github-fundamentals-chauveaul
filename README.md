@@ -1,4 +1,4 @@
-# OMG the readme change
+# OMG the readme changed
 
 # :wave: The Basics of GitHub
 
